@@ -1,0 +1,4 @@
+I can test file2
+I am 
+This is a doc
+last one
